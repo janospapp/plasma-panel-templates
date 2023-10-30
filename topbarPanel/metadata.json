@@ -1,0 +1,20 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "Janos Papp",
+        "Email": "papp.janos.90@gmail.com"
+      }
+    ],
+    "EnabledByDefault": true,
+    "Id": "org.kde.plasma.desktop.janospapp.topbarPanel",
+    "Name": "Topbar Panel",
+    "ServiceTypes": [
+        "Plasma/LayoutTemplate"
+    ]
+  },
+  "X-Plasma-ContainmentCategories": [
+      "panel"
+  ],
+  "X-Plasma-Shell": "plasmashell"
+}
