@@ -1,7 +1,7 @@
 # plasma-panel-templates
-Contains templates for my Plasma 5 panels for easily adding them to my desktop
+Contains templates for my Plasma 5 panels for easily adding them to my desktop.
 
-# Usage
+## Usage
 Once cloned, you can install the templates with the following command:
 ```
 > kpackagetool5 -t Plasma/LayoutTemplate -i ./topbarPanel
