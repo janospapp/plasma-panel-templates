@@ -17,3 +17,8 @@ you can run the command with `-u` upgrade flag instead:
 
 After the template is installed the panel can be added easily from the `Add Panel`
 desktop menu, where the `Topbar Panel` entry appears.
+
+## Resources
+
+* [KDE Desktop scripting](https://develop.kde.org/docs/plasma/scripting/templates/)
+  - documentation about how to write the panel templates
