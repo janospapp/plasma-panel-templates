@@ -1,4 +1,5 @@
 {
+  "KPackageStructure": "Plasma/LayoutTemplate",
   "KPlugin": {
     "Authors": [
       {
@@ -8,10 +9,7 @@
     ],
     "EnabledByDefault": true,
     "Id": "org.kde.plasma.desktop.janospapp.topbarPanel",
-    "Name": "Topbar Panel",
-    "ServiceTypes": [
-        "Plasma/LayoutTemplate"
-    ]
+    "Name": "Topbar Panel"
   },
   "X-Plasma-ContainmentCategories": [
       "panel"
